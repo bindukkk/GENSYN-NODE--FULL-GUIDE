@@ -1,6 +1,6 @@
 # GENSYN-NODE--FULL-GUIDE
 
-# GENSYN-NODE-GUIDE (BY-NTEK-EARNING) 💖💖
+# GENSYN-NODE-GUIDE (BY-Bindas Trick) 💖💖
 
 ## INSTALLATION COMMANDS (Only VPS) 👇🏻
 
@@ -204,5 +204,5 @@ chmod +x backup.sh
 * **Bot 2:** [Gensyn Rewards Bot](https://t.me/gensyn_rewards_me_bot)
 * **Explorer:** [Gensyn Explorer](https://gensyn-testnet.explorer.alchemy.com)
 * **Dashboard:** [Gensyn Dashboard](https://dashboard.gensyn.ai/)
-* **Telegram Channel:** [Join NTEK Earning](https://t.me/ntekearning
+* **Telegram Channel:** [Join NTEK Earning](https://t.me/bindastrick
 
